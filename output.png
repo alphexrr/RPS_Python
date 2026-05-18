@@ -1,1 +1,103 @@
+==============================================
+ IntelliMove - AI Based Rock Paper Scissors
+==============================================
 
+Choose an option:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1/2/3): 1
+
+User Choice : Rock
+Computer Choice : Paper
+
+========== RESULT ==========
+Computer Wins!
+
+------ AI Analysis ------
+Predicted User Move : Rock
+
+========== SCOREBOARD ==========
+User Wins : 0
+Computer Wins : 1
+Draws : 0
+
+Move History : ['Rock']
+
+Do you want to play again? (yes/no): yes
+
+Choose an option:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1/2/3): 3
+
+User Choice : Scissors
+Computer Choice : Paper
+
+========== RESULT ==========
+You Win!
+
+------ AI Analysis ------
+Predicted User Move : Rock
+
+========== SCOREBOARD ==========
+User Wins : 1
+Computer Wins : 1
+Draws : 0
+
+Move History : ['Rock', 'Scissors']
+
+Do you want to play again? (yes/no): yes
+
+Choose an option:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1/2/3): 1
+
+User Choice : Rock
+Computer Choice : Paper
+
+========== RESULT ==========
+Computer Wins!
+
+------ AI Analysis ------
+Predicted User Move : Rock
+
+========== SCOREBOARD ==========
+User Wins : 1
+Computer Wins : 2
+Draws : 0
+
+Move History : ['Rock', 'Scissors', 'Rock']
+
+Do you want to play again? (yes/no): yes
+
+Choose an option:
+1. Rock
+2. Paper
+3. Scissors
+Enter your choice (1/2/3): 2
+
+User Choice : Paper
+Computer Choice : Paper
+
+========== RESULT ==========
+Match Draw!
+
+------ AI Analysis ------
+Predicted User Move : Rock
+
+========== SCOREBOARD ==========
+User Wins : 1
+Computer Wins : 2
+Draws : 1
+
+Move History : ['Rock', 'Scissors', 'Rock', 'Paper']
+
+Do you want to play again? (yes/no): no
+
+===================================
+Thank You for Playing IntelliMove!
+===================================
